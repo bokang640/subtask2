@@ -28,3 +28,6 @@ int temperature3;
 	else 
 	cout<<"oil is not for frying\n";
 	return 0;}
+
+	cout<<"oil is not for frying\n";
+	return 0;}
